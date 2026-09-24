@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "exilers.joinmc.world",
+    "port": 12189,
     "version": "",
     "try-creative": false
   },
